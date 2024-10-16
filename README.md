@@ -1,1 +1,1 @@
-# ds_models
+# Code notebooks for some data science algorithms
